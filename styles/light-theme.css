@@ -1,0 +1,47 @@
+body {
+  background-color: lightblue;
+}
+
+.content {
+  background-color: #ECFDF5;
+}
+
+.title__text {
+  color: #2B283A;
+}
+
+.title__text--colored {
+  color: #10B981;
+}
+
+.text > p {
+  color: #BCC9C9;
+  margin-bottom: 3rem;
+}
+
+label {
+  color: black;
+}
+
+#pwd-length {
+  background-color: rgba(142, 224, 167, 0.544);
+  color: #0d946e;
+}
+
+#pwd-length::placeholder {
+  color: #10B981;
+}
+
+.gen-pwd:hover {
+  cursor: pointer;
+  transition: all .2s;
+  background-color: #065F46;
+  opacity: .5;
+}
+
+.rand-pwd {
+  color:#4FDF87;
+}
+.option {
+  opacity: .8;
+}
