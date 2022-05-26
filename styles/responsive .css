@@ -1,0 +1,10 @@
+@media (max-width: 650px) {
+    .options {
+        display: flex;
+        flex-direction: column;
+    }
+    .option {
+    height: 2.5rem;
+
+    }
+}
